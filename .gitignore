@@ -1,3 +1,6 @@
 # Binary folders
 bin/
 obj/
+
+# VSCode JSON files
+.vscode/
